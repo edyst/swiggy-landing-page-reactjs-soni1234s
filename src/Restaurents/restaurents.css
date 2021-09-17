@@ -84,4 +84,10 @@
         align-content: flex-start;
         margin-left: 50px;
     }
+    
+        .mobiles img{
+        height: auto;
+        width: 230px;
+    
+    }
 }
